@@ -1,0 +1,3 @@
+[submodule "qw-footprints"]
+	path = qw-footprints
+	url = https://github.com/armastardo/qw-footprints
